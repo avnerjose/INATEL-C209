@@ -1,5 +1,9 @@
 # Material para as aulas de C209 - LAB
 
+## Aula 1 - Introdução da diciplina (PDF)
+
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-01-apresentacao.pdf)
+
 ## Aula 2 - Intrudução ao Python
 
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-02-introducao-ao-Python)
