@@ -10,6 +10,10 @@
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-02-introducao-ao-Python/Aula%2002.ipynb)
 
+## Aula 3 - Imagens Vetoriais (PDF)
+
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-03-imagens-vetoriais)
+
 ## Aula 4 - Imagens matriciais
 
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-04-imagens-matriciais)
