@@ -49,3 +49,10 @@
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-09-analise-de-histograma-e-equalizacao)
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-09-analise-de-histograma-e-equalizacao/Aula%209.ipynb)
+
+## Aula 10 - Detecção de bordas
+
+
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-10-deteccao-de-bordas)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-10-deteccao-de-bordas/Aula%210.ipynb)
