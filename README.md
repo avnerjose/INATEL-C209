@@ -56,3 +56,8 @@
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-10-deteccao-de-bordas)
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-10-deteccao-de-bordas/Aula%210.ipynb)
+
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-12-formatos-de-imagens)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-12-formatos-de-imagens/Aula%212.ipynb)
+
