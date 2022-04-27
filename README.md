@@ -57,7 +57,18 @@
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-10-deteccao-de-bordas/Aula%210.ipynb)
 
+## Aula 12 - Formatos de imagem
+
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-12-formatos-de-imagens)
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-12-formatos-de-imagens/Aula%212.ipynb)
+
+## Aula 13 - Compressão de dados 1
+
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/aula-13-compressao-de-dados-pt1)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-13-compressao-de-dados-pt1/Aula%213.ipynb)
+
+
+
 
