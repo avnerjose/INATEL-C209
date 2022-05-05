@@ -75,7 +75,7 @@
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/avnerjose/INATEL-C209/blob/main/Aulas/aula-14-compressao-de-dados-pt2/Aula%214.ipynb)
 
-## Aula 15 - Compressão de dados 2 - Diabólica e Fractal
+## Aula 15 - Compressão de dados 3 - Diabólica e Fractal
 
 [![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/Fractal%20e%20Diabólica)
 
