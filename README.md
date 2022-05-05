@@ -77,7 +77,7 @@
 
 ## Aula 15 - Compressão de dados 2 - Diabólica e Fractal
 
-[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/AulasFractal%20e%20Diabólica)
+[![DownGit](https://badgen.net/badge/Download/from%20Github/purple?icon=github)](https://downgit.github.io/#/home?url=https://github.com/avnerjose/INATEL-C209/tree/main/Aulas/Fractal%20e%20Diabólica)
 
 
 
